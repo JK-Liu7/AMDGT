@@ -1,4 +1,4 @@
-# AMNTDDA:attention aware multi-modal networks learning using transformer for drug-disease associations prediction
+# AMNTDDA: attention aware multi-modal networks learning using transformer for drug-disease associations prediction
 
 # Requirements:
 - python 3.9.13
