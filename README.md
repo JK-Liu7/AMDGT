@@ -1,4 +1,4 @@
-# AMNTDDA: attention aware multi-modal networks learning using transformer for drug-disease associations prediction
+# AMDGT: attention aware multi-modal learning using dual graph transformer for drug-disease associations prediction 
 
 # Requirements:
 - python 3.9.13
