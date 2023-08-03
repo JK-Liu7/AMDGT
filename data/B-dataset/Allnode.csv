@@ -1,0 +1,1888 @@
+0,clobazam
+1,vinorelbine
+2,carvedilol
+3,benazepril
+4,leflunomide
+5,lamotrigine
+6,nefazodone
+7,trandolapril
+8,clopidogrel
+9,gemcitabine
+10,troglitazone
+11,pioglitazone
+12,zafirlukast
+13,mycophenolate mofetil
+14,fluvastatin
+15,meloxicam
+16,docetaxel
+17,olanzapine
+18,candesartan
+19,telmisartan
+20,bosentan
+21,cerivastatin
+22,rosiglitazone
+23,fexofenadine
+24,montelukast
+25,alitretinoin
+26,rofecoxib
+27,desloratadine
+28,gefitinib
+29,sorafenib
+30,sunitinib
+31,celecoxib
+32,sildenafil citrate
+33,rosuvastatin calcium
+34,valsartan
+35,imatinib mesylate
+36,sitagliptin phosphate
+37,atorvastatin calcium
+38,erlotinib hydrochloride
+39,quetiapine fumarate
+40,ezetimibe
+41,dasatinib
+42,venlafaxine hydrochloride
+43,acebutolol
+44,acetaminophen
+45,acetazolamide
+46,acetylcholine
+47,adenosine
+48,allopurinol
+49,amantadine
+50,amiloride
+51,amiodarone
+52,amitriptyline
+53,amphetamine
+54,amsacrine
+55,antipyrine
+56,aspirin
+57,betamethasone
+58,bezafibrate
+59,biperiden
+60,bromocriptine
+61,bumetanide
+62,buprenorphine
+63,buspirone
+64,caffeine
+65,carbamazepine
+66,cefazolin
+67,ceftriaxone
+68,chloramphenicol
+69,chloroquine
+70,chlorpheniramine
+71,chlorpromazine
+72,chlorpropamide
+73,choline
+74,cimetidine
+75,ciprofloxacin
+76,clofazimine
+77,clomiphene
+78,clomipramine
+79,clonidine
+80,clotrimazole
+81,clozapine
+82,cocaine
+83,colchicine
+84,cytarabine
+85,daunorubicin
+86,desipramine
+87,dexamethasone
+88,dextromethorphan
+89,diazepam
+90,diclofenac
+91,diethylstilbestrol
+92,diflunisal
+93,digitoxin
+94,digoxin
+95,dihydroergotamine
+96,diltiazem
+97,diphenhydramine
+98,disopyramide
+99,domperidone
+100,dopamine
+101,doxepin
+102,doxorubicin
+103,doxycycline
+104,enalapril
+105,epinephrine
+106,ergotamine
+107,erythromycin
+108,estradiol
+109,estramustine
+110,"estrogens, conjugated (usp)"
+111,estrone
+112,ethacrynic acid
+113,ethinyl estradiol
+114,etoposide
+115,fentanyl
+116,fluorouracil
+117,fluoxetine
+118,flupenthixol
+119,fluphenazine
+120,flurazepam
+121,flurbiprofen
+122,folic acid
+123,furosemide
+124,glyburide
+125,glycerol
+126,haloperidol
+127,hydrocortisone
+128,ibuprofen
+129,imipramine
+130,indomethacin
+131,ivermectin
+132,ketamine
+133,ketoconazole
+134,ketoprofen
+135,levodopa
+136,lidocaine
+137,loperamide
+138,lovastatin
+139,maprotiline
+140,mebendazole
+141,melatonin
+142,memantine
+143,meprobamate
+144,methadone
+145,methamphetamine
+146,methionine
+147,methotrexate
+148,methyldopa
+149,methylprednisolone
+150,metoprolol
+151,metyrapone
+152,miconazole
+153,midazolam
+154,midodrine
+155,mitoxantrone
+156,morphine
+157,ipratropium
+158,naloxone
+159,naltrexone
+160,naproxen
+161,neostigmine
+162,niacin
+163,nicardipine
+164,nicotine
+165,nifedipine
+166,nitrazepam
+167,nitrendipine
+168,norepinephrine
+169,norfloxacin
+170,ouabain
+171,oxprenolol
+172,pancuronium
+173,phenacetin
+174,phenformin
+175,phenobarbital
+176,phenoxybenzamine
+177,phenylbutazone
+178,phenytoin
+179,pimozide
+180,piroxicam
+181,prazosin
+182,prednisolone
+183,prednisone
+184,probenecid
+185,procainamide
+186,progesterone
+187,promethazine
+188,propafenone
+189,propranolol
+190,protriptyline
+191,quercetin
+192,quinacrine
+193,quinidine
+194,quinine
+195,ranitidine
+196,reserpine
+197,ribavirin
+198,riboflavin
+199,rifampin
+200,sulfasalazine
+201,selegiline
+202,spironolactone
+203,streptozocin
+204,sulfinpyrazone
+205,sulindac
+206,tacrine
+207,tamoxifen
+208,testosterone
+209,tetracycline
+210,dronabinol
+211,theophylline
+212,thiothixene
+213,thyroxine
+214,timolol
+215,tolbutamide
+216,tolmetin
+217,trazodone
+218,tretinoin
+219,trifluoperazine
+220,trimethoprim
+221,trimipramine
+222,ursodeoxycholic acid
+223,valproic acid
+224,verapamil
+225,vinblastine
+226,vincristine
+227,vitamin b 12
+228,zidovudine
+229,dinoprostone
+230,ofloxacin
+231,gemfibrozil
+232,epirubicin
+233,idarubicin
+234,citalopram
+235,mifepristone
+236,felodipine
+237,nisoldipine
+238,famotidine
+239,alfentanil
+240,bepridil
+241,albendazole
+242,mefloquine
+243,astemizole
+244,terfenadine
+245,fluvoxamine
+246,arachidonic acid
+247,pravastatin
+248,paclitaxel
+249,ramipril
+250,clarithromycin
+251,doxazosin
+252,etodolac
+253,toremifene
+254,loratadine
+255,cladribine
+256,paroxetine
+257,itraconazole
+258,sumatriptan
+259,risperidone
+260,riluzole
+261,losartan
+262,simvastatin
+263,genistein
+264,sirolimus
+265,salicylic acid
+266,sertraline
+267,mibefradil
+268,perindopril
+269,anxiety disorders
+270,ataxia
+271,"constriction, pathologic"
+272,"epilepsy, tonic-clonic"
+273,glycosuria
+274,disorders of excessive somnolence
+275,hypothyroidism
+276,myoclonus
+277,paresis
+278,proteinuria
+279,seizures
+280,stevens-johnson syndrome
+281,substance withdrawal syndrome
+282,hypophosphatemia
+283,neurobehavioral manifestations
+284,"vasospasm, intracranial"
+285,adenocarcinoma of lung
+286,adenocarcinoma
+287,agranulocytosis
+288,alopecia
+289,anemia
+290,angina pectoris
+291,anorexia
+292,asthenia
+293,atrial fibrillation
+294,atrial flutter
+295,autonomic nervous system diseases
+296,breast neoplasms
+297,carcinoma
+298,"carcinoma, non-small-cell lung"
+299,"carcinoma, squamous cell"
+300,cardiovascular diseases
+301,central nervous system diseases
+302,constipation
+303,dermatitis
+304,diarrhea
+305,edema
+306,erythema
+307,fatigue
+308,fever
+309,gastrointestinal diseases
+310,head and neck neoplasms
+311,"hearing loss, bilateral"
+312,"hearing loss, sensorineural"
+313,heart diseases
+314,heart failure
+315,hematologic diseases
+316,hypertension
+317,hyponatremia
+318,inappropriate adh syndrome
+319,kidney diseases
+320,leukopenia
+321,liver neoplasms
+322,lung diseases
+323,lung neoplasms
+324,melanoma
+325,mesothelioma
+326,muscular diseases
+327,myocardial infarction
+328,nausea
+329,neoplasm metastasis
+330,neoplasms
+331,nervous system diseases
+332,neuralgia
+333,neutropenia
+334,ovarian neoplasms
+335,pain
+336,pancreatic neoplasms
+337,pancytopenia
+338,paresthesia
+339,peripheral nervous system diseases
+340,phlebitis
+341,polyneuropathies
+342,prostatic neoplasms
+343,pulmonary embolism
+344,spinal cord diseases
+345,stomatitis
+346,thrombocytopenia
+347,thromboembolism
+348,tinnitus
+349,vascular diseases
+350,vomiting
+351,"glomerulonephritis, membranous"
+352,liver failure
+353,myocardial ischemia
+354,sepsis
+355,venous thrombosis
+356,neurotoxicity syndromes
+357,mucositis
+358,drug-related side effects and adverse reactions
+359,albuminuria
+360,"arrhythmias, cardiac"
+361,bradycardia
+362,"cardiomyopathy, dilated"
+363,"cardiomyopathy, hypertrophic"
+364,cognition disorders
+365,dementia
+366,drug eruptions
+367,diabetic angiopathies
+368,"disease models, animal"
+369,dizziness
+370,endomyocardial fibrosis
+371,glioma
+372,headache
+373,heart arrest
+374,"heart defects, congenital"
+375,cardiomegaly
+376,hyperemia
+377,"hypertension, portal"
+378,"hypertension, pulmonary"
+379,"hypertension, renal"
+380,hypotension
+381,"hypotension, orthostatic"
+382,inflammation
+383,insulin resistance
+384,"kidney failure, chronic"
+385,memory disorders
+386,movement disorders
+387,cardiomyopathies
+388,myocarditis
+389,necrosis
+390,postoperative complications
+391,pruritus
+392,quadriplegia
+393,rhabdomyolysis
+394,sleep wake disorders
+395,tachycardia
+396,ventricular fibrillation
+397,reperfusion injury
+398,myocardial reperfusion injury
+399,weight loss
+400,panic disorder
+401,"death, sudden, cardiac"
+402,"tachycardia, ventricular"
+403,"hypertrophy, left ventricular"
+404,"vasculitis, leukocytoclastic, cutaneous"
+405,"ventricular dysfunction, left"
+406,ventricular dysfunction
+407,cocaine-related disorders
+408,"infarction, middle cerebral artery"
+409,ventricular remodeling
+410,stroke
+411,coronary stenosis
+412,renal insufficiency
+413,acute coronary syndrome
+414,atrioventricular block
+415,chemical and drug induced liver injury
+416,acute kidney injury
+417,drug overdose
+418,cardiotoxicity
+419,angioedema
+420,cough
+421,diabetic nephropathies
+422,fibrosis
+423,glomerulonephritis
+424,"glomerulosclerosis, focal segmental"
+425,hepatitis
+426,hyperglycemia
+427,hyperinsulinism
+428,hypertrophy
+429,intestinal diseases
+430,"neoplasms, experimental"
+431,"neovascularization, pathologic"
+432,nephrosclerosis
+433,nephrotic syndrome
+434,uremia
+435,glucose intolerance
+436,metabolic syndrome x
+437,atherosclerosis
+438,"abnormalities, multiple"
+439,arthritis
+440,"arthritis, experimental"
+441,"arthritis, rheumatoid"
+442,cleft palate
+443,erythema multiforme
+444,fatty liver
+445,"heart septal defects, ventricular"
+446,hematuria
+447,liver cirrhosis
+448,"nephritis, interstitial"
+449,neural tube defects
+450,vasculitis
+451,"limb deformities, congenital"
+452,craniofacial abnormalities
+453,back pain
+454,basal ganglia diseases
+455,bipolar disorder
+456,blood coagulation disorders
+457,child behavior disorders
+458,chorea
+459,delirium
+460,depressive disorder
+461,diplopia
+462,disseminated intravascular coagulation
+463,drug hypersensitivity
+464,dystonia
+465,eosinophilia
+466,epilepsy
+467,"epilepsy, generalized"
+468,"epilepsies, myoclonic"
+469,"epilepsy, absence"
+470,exanthema
+471,hallucinations
+472,hepatomegaly
+473,hyperalgesia
+474,hyperkinesis
+475,erectile dysfunction
+476,sleep initiation and maintenance disorders
+477,jaundice
+478,learning disorders
+479,lymphatic diseases
+480,"meningitis, aseptic"
+481,multiple organ failure
+482,nerve degeneration
+483,"parkinson disease, secondary"
+484,pneumonia
+485,"psychoses, substance-induced"
+486,schizophrenia
+487,status epilepticus
+488,tremor
+489,"liver failure, acute"
+490,mood disorders
+491,coma
+492,confusion
+493,"depressive disorder, major"
+494,hepatic encephalopathy
+495,liver diseases
+496,muscle rigidity
+497,myositis
+498,"sexual dysfunction, physiological"
+499,vision disorders
+500,"akathisia, drug-induced"
+501,serotonin syndrome
+502,coronary vasospasm
+503,vertigo
+504,neurodegenerative diseases
+505,"anemia, aplastic"
+506,arterial occlusive diseases
+507,cerebral hemorrhage
+508,brain ischemia
+509,"ischemic attack, transient"
+510,cholestasis
+511,coronary artery disease
+512,coronary disease
+513,coronary thrombosis
+514,dyspnea
+515,hemolytic-uremic syndrome
+516,hemorrhage
+517,hypesthesia
+518,intraoperative complications
+519,subarachnoid hemorrhage
+520,syncope
+521,thrombosis
+522,urticaria
+523,intracranial hemorrhages
+524,anaphylaxis
+525,"anemia, hemolytic"
+526,hypoxia
+527,aphasia
+528,urinary bladder neoplasms
+529,blindness
+530,bone marrow diseases
+531,bundle-branch block
+532,"carcinoma, renal cell"
+533,"carcinoma, transitional cell"
+534,uterine cervical neoplasms
+535,chest pain
+536,deglutition disorders
+537,hemolysis
+538,"carcinoma, hepatocellular"
+539,hodgkin disease
+540,hyperbilirubinemia
+541,hyperkalemia
+542,ischemia
+543,"lymphoma, non-hodgkin"
+544,multiple myeloma
+545,pericardial effusion
+546,pulmonary edema
+547,"respiratory distress syndrome, adult"
+548,"shock, cardiogenic"
+549,"tachycardia, supraventricular"
+550,colorectal neoplasms
+551,abdominal pain
+552,"lymphoma, large b-cell, diffuse"
+553,lethargy
+554,leukoencephalopathies
+555,acidosis
+556,"cholestasis, intrahepatic"
+557,colitis
+558,colonic neoplasms
+559,diabetes mellitus
+560,"diabetes mellitus, experimental"
+561,"diabetes mellitus, type 2"
+562,hyperlipidemias
+563,hyperplasia
+564,"liver neoplasms, experimental"
+565,"mammary neoplasms, experimental"
+566,neoplasm invasiveness
+567,precancerous conditions
+568,psoriasis
+569,pulmonary fibrosis
+570,skin neoplasms
+571,stomach neoplasms
+572,thyroid neoplasms
+573,hypertriglyceridemia
+574,weight gain
+575,"leukemia, myeloid, acute"
+576,massive hepatic necrosis
+577,precursor cell lymphoblastic leukemia-lymphoma
+578,autistic disorder
+579,mental disorders
+580,brain injuries
+581,cystic fibrosis
+582,"liver cirrhosis, experimental"
+583,obesity
+584,parkinson disease
+585,dyslipidemias
+586,asthma
+587,endometriosis
+588,leukocytosis
+589,migraine disorders
+590,pancreatitis
+591,pharyngitis
+592,sinusitis
+593,churg-strauss syndrome
+594,"pulmonary disease, chronic obstructive"
+595,"abnormalities, drug-induced"
+596,"anemia, hemolytic, autoimmune"
+597,arteriosclerosis
+598,autoimmune diseases
+599,fetal diseases
+600,gastrointestinal hemorrhage
+601,"lupus erythematosus, systemic"
+602,lymphoma
+603,myasthenia gravis
+604,myelodysplastic syndromes
+605,nephritis
+606,prenatal exposure delayed effects
+607,"red-cell aplasia, pure"
+608,"signs and symptoms, digestive"
+609,"lymphoma, b-cell"
+610,polymyositis
+611,arthralgia
+612,muscle weakness
+613,bacterial infections
+614,"cell transformation, neoplastic"
+615,dermatomyositis
+616,diabetic neuropathies
+617,dyspepsia
+618,hypercholesterolemia
+619,osteoarthritis
+620,"pain, postoperative"
+621,"reflex, abnormal"
+622,sialorrhea
+623,stomach ulcer
+624,premature birth
+625,brain diseases
+626,cerebellar ataxia
+627,cerebral infarction
+628,conjunctivitis
+629,consciousness disorders
+630,esophageal neoplasms
+631,flushing
+632,hypocalcemia
+633,infection
+634,pleural effusion
+635,sarcoma
+636,skin diseases
+637,speech disorders
+638,thrombophlebitis
+639,uterine neoplasms
+640,gait ataxia
+641,venous thromboembolism
+642,"affective disorders, psychotic"
+643,amnesia
+644,feeding and eating disorders
+645,athetosis
+646,blepharoptosis
+647,catalepsy
+648,catatonia
+649,cerebrovascular disorders
+650,developmental disabilities
+651,"dyskinesia, drug-induced"
+652,tourette syndrome
+653,heart block
+654,hyperprolactinemia
+655,hypothermia
+656,"infant, newborn, diseases"
+657,long qt syndrome
+658,muscle hypertonia
+659,myoglobinuria
+660,neuroleptic malignant syndrome
+661,neurologic manifestations
+662,obsessive-compulsive disorder
+663,paranoid disorders
+664,polyuria
+665,priapism
+666,pseudotumor cerebri
+667,psychomotor agitation
+668,psychotic disorders
+669,respiratory insufficiency
+670,restless legs syndrome
+671,"schizophrenia, paranoid"
+672,somnambulism
+673,"stress disorders, post-traumatic"
+674,stuttering
+675,torticollis
+676,urinary incontinence
+677,urination disorders
+678,xerostomia
+679,urinary retention
+680,hypokinesia
+681,stereotypic movement disorder
+682,substance-related disorders
+683,amphetamine-related disorders
+684,"sexual dysfunctions, psychological"
+685,parkinsonian disorders
+686,dystonic disorders
+687,dysphonia
+688,fetal growth retardation
+689,hypokalemia
+690,"obstetric labor, premature"
+691,oral ulcer
+692,poisoning
+693,anuria
+694,alzheimer disease
+695,brain edema
+696,granuloma
+697,spinal cord injuries
+698,ventricular premature complexes
+699,mitochondrial diseases
+700,lung injury
+701,non-alcoholic fatty liver disease
+702,hypersensitivity
+703,torsades de pointes
+704,nervous system malformations
+705,purpura
+706,stomach diseases
+707,intracranial hypertension
+708,acne vulgaris
+709,glioblastoma
+710,kidney neoplasms
+711,"lung diseases, interstitial"
+712,leukemia
+713,"leukemia, myelogenous, chronic, bcr-abl positive"
+714,endometrial neoplasms
+715,posterior leukoencephalopathy syndrome
+716,atrophy
+717,bone diseases
+718,cholelithiasis
+719,gout
+720,"nystagmus, pathologic"
+721,peptic ulcer
+722,respiration disorders
+723,postoperative nausea and vomiting
+724,"hypertension, malignant"
+725,muscle cramp
+726,brain infarction
+727,cholangitis
+728,cystitis
+729,dysarthria
+730,photosensitivity disorders
+731,testicular diseases
+732,demyelinating diseases
+733,"disruptive, impulse control, and conduct disorders"
+734,shock
+735,conduct disorder
+736,dyskinesias
+737,musculoskeletal diseases
+738,respiratory tract infections
+739,attention deficit disorder with hyperactivity
+740,cataplexy
+741,galactorrhea
+742,hyperhidrosis
+743,"tachycardia, sinus"
+744,hot flashes
+745,"acidosis, lactic"
+746,bile duct diseases
+747,cataract
+748,"death, sudden"
+749,fetal death
+750,gastritis
+751,hypoglycemia
+752,"infertility, female"
+753,kidney papillary necrosis
+754,"kidney tubular necrosis, acute"
+755,methemoglobinemia
+756,oliguria
+757,pregnancy complications
+758,"purpura, schoenlein-henoch"
+759,hyperammonemia
+760,azotemia
+761,apnea
+762,"infant, premature, diseases"
+763,ocular hypertension
+764,papilledema
+765,paralysis
+766,taste disorders
+767,spasm
+768,bronchial spasm
+769,extravasation of diagnostic and therapeutic materials
+770,"sinus arrest, cardiac"
+771,"leukemia, lymphoid"
+772,multiple sclerosis
+773,personality disorders
+774,psychomotor disorders
+775,peripheral vascular diseases
+776,growth disorders
+777,"diabetes insipidus, nephrogenic"
+778,olfaction disorders
+779,ascites
+780,cerebellar diseases
+781,color vision defects
+782,eye diseases
+783,hypercalcemia
+784,hyperthyroidism
+785,lipidoses
+786,muscular atrophy
+787,neuromuscular diseases
+788,ophthalmoplegia
+789,optic atrophy
+790,optic nerve diseases
+791,sick sinus syndrome
+792,sinoatrial block
+793,splenomegaly
+794,"gait disorders, neurologic"
+795,photophobia
+796,"jaundice, obstructive"
+797,enuresis
+798,hearing disorders
+799,ocular motility disorders
+800,miosis
+801,hearing loss
+802,prenatal injuries
+803,stupor
+804,"encephalomyelitis, autoimmune, experimental"
+805,heroin dependence
+806,pericarditis
+807,adenoma
+808,"brain diseases, metabolic"
+809,brain neoplasms
+810,deafness
+811,gastroenteritis
+812,muscle hypotonia
+813,staphylococcal infections
+814,testicular neoplasms
+815,ulcer
+816,hiccup
+817,paraplegia
+818,low back pain
+819,"liver cirrhosis, biliary"
+820,"leukemia, lymphocytic, chronic, b-cell"
+821,gynecomastia
+822,hydronephrosis
+823,meningitis
+824,pituitary neoplasms
+825,raynaud disease
+826,opioid-related disorders
+827,neonatal abstinence syndrome
+828,peritonitis
+829,embryo loss
+830,osteoporosis
+831,polyarteritis nodosa
+832,"tachycardia, paroxysmal"
+833,tic disorders
+834,"mammary neoplasms, animal"
+835,motor skills disorders
+836,chills
+837,"dermatitis, exfoliative"
+838,muscle spasticity
+839,retinal diseases
+840,unconsciousness
+841,porphyria cutanea tarda
+842,hyperhomocysteinemia
+843,osteomyelitis
+844,urinary bladder diseases
+845,pyelonephritis
+846,"micronuclei, chromosome-defective"
+847,"anemia, megaloblastic"
+848,keratitis
+849,"lupus erythematosus, cutaneous"
+850,malaria
+851,erythema nodosum
+852,oligospermia
+853,"shock, septic"
+854,hepatic veno-occlusive disease
+855,pheochromocytoma
+856,reflex sympathetic dystrophy
+857,nocturnal enuresis
+858,sensation disorders
+859,mononeuropathies
+860,burkitt lymphoma
+861,recurrence
+862,rhabdomyosarcoma
+863,"leukemia, promyelocytic, acute"
+864,precursor t-cell lymphoblastic leukemia-lymphoma
+865,dissociative disorders
+866,"cardiac output, low"
+867,9606.ensp00000303211
+868,9606.ensp00000264381
+869,9606.ensp00000407546
+870,9606.ensp00000355920
+871,9606.ensp00000355930
+872,9606.ensp00000275300
+873,9606.ensp00000245407
+874,9606.ensp00000200652
+875,9606.ensp00000355536
+876,9606.ensp00000325312
+877,9606.ensp00000365777
+878,9606.ensp00000307900
+879,9606.ensp00000357844
+880,9606.ensp00000287936
+881,9606.ensp00000360317
+882,9606.ensp00000256958
+883,9606.ensp00000289575
+884,9606.ensp00000478255
+885,9606.ensp00000305974
+886,9606.ensp00000367102
+887,9606.ensp00000337335
+888,9606.ensp00000359478
+889,9606.ensp00000301891
+890,9606.ensp00000237612
+891,9606.ensp00000361666
+892,9606.ensp00000441065
+893,9606.ensp00000263817
+894,9606.ensp00000261196
+895,9606.ensp00000261707
+896,9606.ensp00000262186
+897,9606.ensp00000353820
+898,9606.ensp00000342007
+899,9606.ensp00000440689
+900,9606.ensp00000369050
+901,9606.ensp00000337915
+902,9606.ensp00000222982
+903,9606.ensp00000480571
+904,9606.ensp00000260682
+905,9606.ensp00000360372
+906,9606.ensp00000324648
+907,9606.ensp00000298472
+908,9606.ensp00000270349
+909,9606.ensp00000219833
+910,9606.ensp00000368766
+911,9606.ensp00000306662
+912,9606.ensp00000280155
+913,9606.ensp00000480573
+914,9606.ensp00000386069
+915,9606.ensp00000358301
+916,9606.ensp00000305372
+917,9606.ensp00000343782
+918,9606.ensp00000354859
+919,9606.ensp00000367309
+920,9606.ensp00000340684
+921,9606.ensp00000301141
+922,9606.ensp00000359285
+923,9606.ensp00000357461
+924,9606.ensp00000385026
+925,9606.ensp00000315602
+926,9606.ensp00000312663
+927,9606.ensp00000250699
+928,9606.ensp00000261751
+929,9606.ensp00000379683
+930,9606.ensp00000332679
+931,9606.ensp00000287820
+932,9606.ensp00000223095
+933,9606.ensp00000377424
+934,9606.ensp00000355904
+935,9606.ensp00000384851
+936,9606.ensp00000310928
+937,9606.ensp00000385523
+938,9606.ensp00000381607
+939,9606.ensp00000304845
+940,9606.ensp00000418532
+941,9606.ensp00000362508
+942,9606.ensp00000303174
+943,9606.ensp00000346768
+944,9606.ensp00000343838
+945,9606.ensp00000304811
+946,9606.ensp00000341045
+947,9606.ensp00000356205
+948,9606.ensp00000336630
+949,9606.ensp00000352608
+950,9606.ensp00000478561
+951,9606.ensp00000380247
+952,9606.ensp00000349252
+953,9606.ensp00000430432
+954,9606.ensp00000295897
+955,9606.ensp00000300738
+956,9606.ensp00000354532
+957,9606.ensp00000286648
+958,9606.ensp00000365413
+959,9606.ensp00000410257
+960,9606.ensp00000303540
+961,9606.ensp00000336528
+962,9606.ensp00000283254
+963,9606.ensp00000329374
+964,9606.ensp00000285979
+965,9606.ensp00000444149
+966,9606.ensp00000405330
+967,9606.ensp00000343925
+968,9606.ensp00000399968
+969,9606.ensp00000363822
+970,9606.ensp00000369816
+971,9606.ensp00000237014
+972,9606.ensp00000354511
+973,9606.ensp00000003100
+974,9606.ensp00000262888
+975,9606.ensp00000355759
+976,9606.ensp00000361965
+977,9606.ensp00000306490
+978,9606.ensp00000399745
+979,9606.ensp00000255380
+980,9606.ensp00000394936
+981,9606.ensp00000259396
+982,9606.ensp00000390600
+983,9606.ensp00000386306
+984,9606.ensp00000275493
+985,9606.ensp00000396320
+986,9606.ensp00000394624
+987,9606.ensp00000265572
+988,9606.ensp00000234961
+989,9606.ensp00000305221
+990,9606.ensp00000364586
+991,9606.ensp00000354612
+992,9606.ensp00000356438
+993,9606.ensp00000243167
+994,9606.ensp00000459962
+995,9606.ensp00000378972
+996,9606.ensp00000286479
+997,9606.ensp00000363748
+998,9606.ensp00000358963
+999,9606.ensp00000258400
+1000,9606.ensp00000437737
+1001,9606.ensp00000316244
+1002,9606.ensp00000431418
+1003,9606.ensp00000371985
+1004,9606.ensp00000366506
+1005,9606.ensp00000256906
+1006,9606.ensp00000277010
+1007,9606.ensp00000276198
+1008,9606.ensp00000337949
+1009,9606.ensp00000289753
+1010,9606.ensp00000409378
+1011,9606.ensp00000372750
+1012,9606.ensp00000347754
+1013,9606.ensp00000377353
+1014,9606.ensp00000306129
+1015,9606.ensp00000176183
+1016,9606.ensp00000373169
+1017,9606.ensp00000307766
+1018,9606.ensp00000393097
+1019,9606.ensp00000421828
+1020,9606.ensp00000359337
+1021,9606.ensp00000264318
+1022,9606.ensp00000335592
+1023,9606.ensp00000274545
+1024,9606.ensp00000295454
+1025,9606.ensp00000274547
+1026,9606.ensp00000308725
+1027,9606.ensp00000367848
+1028,9606.ensp00000359353
+1029,9606.ensp00000295452
+1030,9606.ensp00000410732
+1031,9606.ensp00000479113
+1032,9606.ensp00000430100
+1033,9606.ensp00000469332
+1034,9606.ensp00000356729
+1035,9606.ensp00000360247
+1036,9606.ensp00000226021
+1037,9606.ensp00000251595
+1038,9606.ensp00000448059
+1039,9606.ensp00000445306
+1040,9606.ensp00000309741
+1041,9606.ensp00000217159
+1042,9606.ensp00000325120
+1043,9606.ensp00000350815
+1044,9606.ensp00000231509
+1045,9606.ensp00000382342
+1046,9606.ensp00000216540
+1047,9606.ensp00000261937
+1048,9606.ensp00000251849
+1049,9606.ensp00000263923
+1050,9606.ensp00000288602
+1051,9606.ensp00000241453
+1052,9606.ensp00000261799
+1053,9606.ensp00000288135
+1054,9606.ensp00000393312
+1055,9606.ensp00000347942
+1056,9606.ensp00000282397
+1057,9606.ensp00000366084
+1058,9606.ensp00000266376
+1059,9606.ensp00000349320
+1060,9606.ensp00000320025
+1061,9606.ensp00000288139
+1062,9606.ensp00000355192
+1063,9606.ensp00000419692
+1064,9606.ensp00000363817
+1065,9606.ensp00000352900
+1066,9606.ensp00000274192
+1067,9606.ensp00000477587
+1068,9606.ensp00000418081
+1069,9606.ensp00000365441
+1070,9606.ensp00000377840
+1071,9606.ensp00000301050
+1072,9606.ensp00000438949
+1073,9606.ensp00000360423
+1074,9606.ensp00000353362
+1075,9606.ensp00000352011
+1076,9606.ensp00000334198
+1077,9606.ensp00000385019
+1078,9606.ensp00000368727
+1079,9606.ensp00000363832
+1080,9606.ensp00000315644
+1081,9606.ensp00000396308
+1082,9606.ensp00000360939
+1083,9606.ensp00000364212
+1084,9606.ensp00000361608
+1085,9606.ensp00000350024
+1086,9606.ensp00000358513
+1087,9606.ensp00000363596
+1088,9606.ensp00000363512
+1089,9606.ensp00000478492
+1090,9606.ensp00000340409
+1091,9606.ensp00000344220
+1092,9606.ensp00000285379
+1093,9606.ensp00000285381
+1094,9606.ensp00000384881
+1095,9606.ensp00000481732
+1096,9606.ensp00000270570
+1097,9606.ensp00000326671
+1098,9606.ensp00000290349
+1099,9606.ensp00000301071
+1100,9606.ensp00000254066
+1101,9606.ensp00000332296
+1102,9606.ensp00000388510
+1103,9606.ensp00000411532
+1104,9606.ensp00000339001
+1105,9606.ensp00000248437
+1106,9606.ensp00000285238
+1107,9606.ensp00000379038
+1108,9606.ensp00000359211
+1109,9606.ensp00000264220
+1110,9606.ensp00000333926
+1111,9606.ensp00000236959
+1112,9606.ensp00000378230
+1113,9606.ensp00000320634
+1114,9606.ensp00000205557
+1115,9606.ensp00000290866
+1116,9606.ensp00000365686
+1117,9606.ensp00000361850
+1118,9606.ensp00000274093
+1119,9606.ensp00000285930
+1120,9606.ensp00000263025
+1121,9606.ensp00000332812
+1122,9606.ensp00000352584
+1123,9606.ensp00000420168
+1124,9606.ensp00000359663
+1125,9606.ensp00000222382
+1126,9606.ensp00000355995
+1127,9606.ensp00000286621
+1128,9606.ensp00000311095
+1129,9606.ensp00000345708
+1130,9606.ensp00000322924
+1131,9606.ensp00000303960
+1132,9606.ensp00000417085
+1133,9606.ensp00000408695
+1134,9606.ensp00000305355
+1135,9606.ensp00000353720
+1136,9606.ensp00000419422
+1137,9606.ensp00000345096
+1138,9606.ensp00000321584
+1139,9606.ensp00000317842
+1140,9606.ensp00000412673
+1141,9606.ensp00000386029
+1142,9606.ensp00000481321
+1143,9606.ensp00000396704
+1144,9606.ensp00000419970
+1145,9606.ensp00000379822
+1146,9606.ensp00000311291
+1147,9606.ensp00000366109
+1148,9606.ensp00000316786
+1149,9606.ensp00000358421
+1150,9606.ensp00000342850
+1151,9606.ensp00000360522
+1152,9606.ensp00000224356
+1153,9606.ensp00000295256
+1154,9606.ensp00000307259
+1155,9606.ensp00000380281
+1156,9606.ensp00000354632
+1157,9606.ensp00000355231
+1158,9606.ensp00000199936
+1159,9606.ensp00000430684
+1160,9606.ensp00000280612
+1161,9606.ensp00000312286
+1162,9606.ensp00000430656
+1163,9606.ensp00000300900
+1164,9606.ensp00000345659
+1165,9606.ensp00000379563
+1166,9606.ensp00000356959
+1167,9606.ensp00000354558
+1168,9606.ensp00000383003
+1169,9606.ensp00000264498
+1170,9606.ensp00000003084
+1171,9606.ensp00000403644
+1172,9606.ensp00000292513
+1173,9606.ensp00000349003
+1174,9606.ensp00000370254
+1175,9606.ensp00000265421
+1176,9606.ensp00000376776
+1177,9606.ensp00000260191
+1178,9606.ensp00000270142
+1179,9606.ensp00000361140
+1180,9606.ensp00000369927
+1181,9606.ensp00000319788
+1182,9606.ensp00000240662
+1183,9606.ensp00000221700
+1184,9606.ensp00000261187
+1185,9606.ensp00000352516
+1186,9606.ensp00000381185
+1187,9606.ensp00000357712
+1188,9606.ensp00000225275
+1189,9606.ensp00000320866
+1190,9606.ensp00000369822
+1191,9606.ensp00000356436
+1192,9606.ensp00000280097
+1193,9606.ensp00000286628
+1194,9606.ensp00000264637
+1195,9606.ensp00000379904
+1196,9606.ensp00000376432
+1197,9606.ensp00000478570
+1198,9606.ensp00000296526
+1199,9606.ensp00000363089
+1200,9606.ensp00000303522
+1201,9606.ensp00000217133
+1202,9606.ensp00000261622
+1203,9606.ensp00000361423
+1204,9606.ensp00000362680
+1205,9606.ensp00000337825
+1206,9606.ensp00000483570
+1207,9606.ensp00000350896
+1208,9606.ensp00000428924
+1209,9606.ensp00000229795
+1210,9606.ensp00000286301
+1211,9606.ensp00000257290
+1212,9606.ensp00000222381
+1213,9606.ensp00000226730
+1214,9606.ensp00000312304
+1215,9606.ensp00000370129
+1216,9606.ensp00000447149
+1217,9606.ensp00000245312
+1218,9606.ensp00000385216
+1219,9606.ensp00000451828
+1220,9606.ensp00000362608
+1221,9606.ensp00000242057
+1222,9606.ensp00000217244
+1223,9606.ensp00000335153
+1224,9606.ensp00000323929
+1225,9606.ensp00000402373
+1226,9606.ensp00000234071
+1227,9606.ensp00000301633
+1228,9606.ensp00000345728
+1229,9606.ensp00000293288
+1230,9606.ensp00000227507
+1231,9606.ensp00000261254
+1232,9606.ensp00000353864
+1233,9606.ensp00000264613
+1234,9606.ensp00000433560
+1235,9606.ensp00000344456
+1236,9606.ensp00000269571
+1237,9606.ensp00000356771
+1238,9606.ensp00000377284
+1239,9606.ensp00000331358
+1240,9606.ensp00000387662
+1241,9606.ensp00000232424
+1242,9606.ensp00000248553
+1243,9606.ensp00000264832
+1244,9606.ensp00000363689
+1245,9606.ensp00000229135
+1246,9606.ensp00000391826
+1247,9606.ensp00000263341
+1248,9606.ensp00000259206
+1249,9606.ensp00000305651
+1250,9606.ensp00000360266
+1251,9606.ensp00000256078
+1252,9606.ensp00000312652
+1253,9606.ensp00000309757
+1254,9606.ensp00000231751
+1255,9606.ensp00000357643
+1256,9606.ensp00000231790
+1257,9606.ensp00000361405
+1258,9606.ensp00000361170
+1259,9606.ensp00000479618
+1260,9606.ensp00000226574
+1261,9606.ensp00000327251
+1262,9606.ensp00000277541
+1263,9606.ensp00000217386
+1264,9606.ensp00000355865
+1265,9606.ensp00000368458
+1266,9606.ensp00000384273
+1267,9606.ensp00000308895
+1268,9606.ensp00000351671
+1269,9606.ensp00000416293
+1270,9606.ensp00000446252
+1271,9606.ensp00000231061
+1272,9606.ensp00000264657
+1273,9606.ensp00000358404
+1274,9606.ensp00000351905
+1275,9606.ensp00000398698
+1276,9606.ensp00000269305
+1277,9606.ensp00000357516
+1278,9606.ensp00000232607
+1279,9606.ensp00000331327
+1280,9606.ensp00000356480
+1281,9606.ensp00000241261
+1282,9606.ensp00000221132
+1283,9606.ensp00000426809
+1284,9606.ensp00000338185
+1285,9606.ensp00000263377
+1286,9606.ensp00000419361
+1287,9606.ensp00000312262
+1288,9606.ensp00000302620
+1289,9606.ensp00000324292
+1290,9606.ensp00000373700
+1291,9606.ensp00000284981
+1292,9606.ensp00000344352
+1293,9606.ensp00000444688
+1294,9606.ensp00000440045
+1295,9606.ensp00000414303
+1296,9606.ensp00000418960
+1297,9606.ensp00000268613
+1298,9606.ensp00000418915
+1299,9606.ensp00000317817
+1300,9606.ensp00000276571
+1301,9606.ensp00000381333
+1302,9606.ensp00000225474
+1303,9606.ensp00000279488
+1304,9606.ensp00000410294
+1305,9606.ensp00000273550
+1306,9606.ensp00000366525
+1307,9606.ensp00000350928
+1308,9606.ensp00000468500
+1309,9606.ensp00000312673
+1310,9606.ensp00000229264
+1311,9606.ensp00000407375
+1312,9606.ensp00000428994
+1313,9606.ensp00000053867
+1314,9606.ensp00000379818
+1315,9606.ensp00000477455
+1316,9606.ensp00000354896
+1317,9606.ensp00000324806
+1318,9606.ensp00000311469
+1319,9606.ensp00000293330
+1320,9606.ensp00000384620
+1321,9606.ensp00000276297
+1322,9606.ensp00000369554
+1323,9606.ensp00000302665
+1324,9606.ensp00000263339
+1325,9606.ensp00000385675
+1326,9606.ensp00000306512
+1327,9606.ensp00000280357
+1328,9606.ensp00000215754
+1329,9606.ensp00000358525
+1330,9606.ensp00000172229
+1331,9606.ensp00000393275
+1332,9606.ensp00000297494
+1333,9606.ensp00000384364
+1334,9606.ensp00000354652
+1335,9606.ensp00000277120
+1336,9606.ensp00000332116
+1337,9606.ensp00000440185
+1338,9606.ensp00000324248
+1339,9606.ensp00000359019
+1340,9606.ensp00000301908
+1341,9606.ensp00000384092
+1342,9606.ensp00000378974
+1343,9606.ensp00000368752
+1344,9606.ensp00000392423
+1345,9606.ensp00000326366
+1346,9606.ensp00000353198
+1347,9606.ensp00000348461
+1348,9606.ensp00000272190
+1349,9606.ensp00000261523
+1350,9606.ensp00000357801
+1351,9606.ensp00000291700
+1352,9606.ensp00000354721
+1353,9606.ensp00000262352
+1354,9606.ensp00000278379
+1355,9606.ensp00000287766
+1356,9606.ensp00000254976
+1357,9606.ensp00000321106
+1358,9606.ensp00000221930
+1359,9606.ensp00000370571
+1360,9606.ensp00000162749
+1361,9606.ensp00000365435
+1362,9606.ensp00000303452
+1363,9606.ensp00000385142
+1364,9606.ensp00000334382
+1365,9606.ensp00000296777
+1366,9606.ensp00000363193
+1367,9606.ensp00000355593
+1368,9606.ensp00000265643
+1369,9606.ensp00000335074
+1370,9606.ensp00000329093
+1371,9606.ensp00000307342
+1372,9606.ensp00000386284
+1373,9606.ensp00000340900
+1374,9606.ensp00000242839
+1375,9606.ensp00000371958
+1376,9606.ensp00000252102
+1377,9606.ensp00000225964
+1378,9606.ensp00000297268
+1379,9606.ensp00000304408
+1380,9606.ensp00000356954
+1381,9606.ensp00000308541
+1382,9606.ensp00000334145
+1383,9606.ensp00000325527
+1384,9606.ensp00000233838
+1385,9606.ensp00000222390
+1386,9606.ensp00000276927
+1387,9606.ensp00000449404
+1388,9606.ensp00000373487
+1389,9606.ensp00000332973
+1390,9606.ensp00000219070
+1391,9606.ensp00000380252
+1392,9606.ensp00000269228
+1393,9606.ensp00000365663
+1394,9606.ensp00000265723
+1395,9606.ensp00000416066
+1396,9606.ensp00000225831
+1397,9606.ensp00000378517
+1398,9606.ensp00000364133
+1399,9606.ensp00000446007
+1400,9606.ensp00000355893
+1401,9606.ensp00000379845
+1402,9606.ensp00000265838
+1403,9606.ensp00000436607
+1404,9606.ensp00000297785
+1405,9606.ensp00000261733
+1406,9606.ensp00000346032
+1407,9606.ensp00000377833
+1408,9606.ensp00000433138
+1409,9606.ensp00000339191
+1410,9606.ensp00000261693
+1411,9606.ensp00000364979
+1412,9606.ensp00000360882
+1413,9606.ensp00000367851
+1414,9606.ensp00000358903
+1415,9606.ensp00000264380
+1416,9606.ensp00000368683
+1417,9606.ensp00000265171
+1418,9606.ensp00000356399
+1419,9606.ensp00000358866
+1420,9606.ensp00000306245
+1421,9606.ensp00000346671
+1422,9606.ensp00000282561
+1423,9606.ensp00000312999
+1424,9606.ensp00000379110
+1425,9606.ensp00000362924
+1426,9606.ensp00000216117
+1427,9606.ensp00000412237
+1428,9606.ensp00000379975
+1429,9606.ensp00000380432
+1430,9606.ensp00000379350
+1431,9606.ensp00000380948
+1432,9606.ensp00000452786
+1433,9606.ensp00000371067
+1434,9606.ensp00000265023
+1435,9606.ensp00000362108
+1436,9606.ensp00000263735
+1437,9606.ensp00000341551
+1438,9606.ensp00000302111
+1439,9606.ensp00000354901
+1440,9606.ensp00000418525
+1441,9606.ensp00000322788
+1442,9606.ensp00000245185
+1443,9606.ensp00000216797
+1444,9606.ensp00000346508
+1445,9606.ensp00000220809
+1446,9606.ensp00000308938
+1447,9606.ensp00000378217
+1448,9606.ensp00000360683
+1449,9606.ensp00000357709
+1450,9606.ensp00000420939
+1451,9606.ensp00000366307
+1452,9606.ensp00000218388
+1453,9606.ensp00000261405
+1454,9606.ensp00000389814
+1455,9606.ensp00000404854
+1456,9606.ensp00000212015
+1457,9606.ensp00000371517
+1458,9606.ensp00000247470
+1459,9606.ensp00000437955
+1460,9606.ensp00000268035
+1461,9606.ensp00000304915
+1462,9606.ensp00000303830
+1463,9606.ensp00000313420
+1464,9606.ensp00000441765
+1465,9606.ensp00000353292
+1466,9606.ensp00000389414
+1467,9606.ensp00000349960
+1468,9606.ensp00000254958
+1469,9606.ensp00000280772
+1470,9606.ensp00000236850
+1471,9606.ensp00000252486
+1472,9606.ensp00000347979
+1473,9606.ensp00000356694
+1474,9606.ensp00000302564
+1475,9606.ensp00000369497
+1476,9606.ensp00000351273
+1477,9606.ensp00000382800
+1478,9606.ensp00000228872
+1479,9606.ensp00000413720
+1480,9606.ensp00000299565
+1481,9606.ensp00000255030
+1482,9606.ensp00000216862
+1483,9606.ensp00000386135
+1484,9606.ensp00000264709
+1485,9606.ensp00000307940
+1486,9606.ensp00000239938
+1487,9606.ensp00000480004
+1488,9606.ensp00000267101
+1489,9606.ensp00000013807
+1490,9606.ensp00000348089
+1491,9606.ensp00000378058
+1492,9606.ensp00000417480
+1493,9606.ensp00000245919
+1494,9606.ensp00000269216
+1495,9606.ensp00000363134
+1496,9606.ensp00000229416
+1497,9606.ensp00000373477
+1498,9606.ensp00000407586
+1499,9606.ensp00000221486
+1500,9606.ensp00000369887
+1501,9606.ensp00000256646
+1502,9606.ensp00000263388
+1503,9606.ensp00000306561
+1504,9606.ensp00000263967
+1505,9606.ensp00000215832
+1506,9606.ensp00000361021
+1507,9606.ensp00000323588
+1508,9606.ensp00000245479
+1509,9606.ensp00000341208
+1510,9606.ensp00000478059
+1511,9606.ensp00000324856
+1512,9606.ensp00000309572
+1513,9606.ensp00000353224
+1514,9606.ensp00000441235
+1515,9606.ensp00000256474
+1516,9606.ensp00000285021
+1517,9606.ensp00000264731
+1518,9606.ensp00000397261
+1519,9606.ensp00000349547
+1520,9606.ensp00000372023
+1521,9606.ensp00000338272
+1522,9606.ensp00000370989
+1523,9606.ensp00000270139
+1524,9606.ensp00000216629
+1525,9606.ensp00000245907
+1526,9606.ensp00000398632
+1527,9606.ensp00000315130
+1528,9606.ensp00000381448
+1529,9606.ensp00000358674
+1530,9606.ensp00000364802
+1531,9606.ensp00000301420
+1532,9606.ensp00000263816
+1533,9606.ensp00000233202
+1534,9606.ensp00000260010
+1535,9606.ensp00000347379
+1536,9606.ensp00000278616
+1537,9606.ensp00000241052
+1538,9606.ensp00000304592
+1539,9606.ensp00000222248
+1540,9606.ensp00000287641
+1541,9606.ensp00000367203
+1542,9606.ensp00000228606
+1543,9606.ensp00000327459
+1544,9606.ensp00000372313
+1545,9606.ensp00000216714
+1546,9606.ensp00000301945
+1547,9606.ensp00000331746
+1548,9606.ensp00000300305
+1549,9606.ensp00000261769
+1550,9606.ensp00000483117
+1551,9606.ensp00000262367
+1552,9606.ensp00000291568
+1553,9606.ensp00000236671
+1554,9606.ensp00000360025
+1555,9606.ensp00000328547
+1556,9606.ensp00000231887
+1557,9606.ensp00000375809
+1558,9606.ensp00000222329
+1559,9606.ensp00000320147
+1560,9606.ensp00000370256
+1561,9606.ensp00000390265
+1562,9606.ensp00000370698
+1563,9606.ensp00000304895
+1564,9606.ensp00000306253
+1565,9606.ensp00000258149
+1566,9606.ensp00000436786
+1567,9606.ensp00000265433
+1568,9606.ensp00000404100
+1569,9606.ensp00000369134
+1570,9606.ensp00000428056
+1571,9606.ensp00000268058
+1572,9606.ensp00000319730
+1573,9606.ensp00000267163
+1574,9606.ensp00000262461
+1575,9606.ensp00000216911
+1576,9606.ensp00000257566
+1577,9606.ensp00000480291
+1578,9606.ensp00000215838
+1579,9606.ensp00000301522
+1580,9606.ensp00000295400
+1581,9606.ensp00000356213
+1582,9606.ensp00000262887
+1583,9606.ensp00000301067
+1584,9606.ensp00000361066
+1585,9606.ensp00000320485
+1586,9606.ensp00000310721
+1587,9606.ensp00000268712
+1588,9606.ensp00000171111
+1589,9606.ensp00000345008
+1590,9606.ensp00000386759
+1591,9606.ensp00000442788
+1592,9606.ensp00000463069
+1593,9606.ensp00000262189
+1594,9606.ensp00000261584
+1595,9606.ensp00000307297
+1596,9606.ensp00000376445
+1597,9606.ensp00000296871
+1598,9606.ensp00000231228
+1599,9606.ensp00000306124
+1600,9606.ensp00000347088
+1601,9606.ensp00000261024
+1602,9606.ensp00000285071
+1603,9606.ensp00000274353
+1604,9606.ensp00000379258
+1605,9606.ensp00000375921
+1606,9606.ensp00000438468
+1607,9606.ensp00000301244
+1608,9606.ensp00000347672
+1609,9606.ensp00000454071
+1610,9606.ensp00000299855
+1611,9606.ensp00000365651
+1612,9606.ensp00000369442
+1613,9606.ensp00000271064
+1614,9606.ensp00000234590
+1615,9606.ensp00000306361
+1616,9606.ensp00000221130
+1617,9606.ensp00000370023
+1618,9606.ensp00000379873
+1619,9606.ensp00000399168
+1620,9606.ensp00000364080
+1621,9606.ensp00000353099
+1622,9606.ensp00000345347
+1623,9606.ensp00000231449
+1624,9606.ensp00000264563
+1625,9606.ensp00000344192
+1626,9606.ensp00000268124
+1627,9606.ensp00000371554
+1628,9606.ensp00000260197
+1629,9606.ensp00000287295
+1630,9606.ensp00000292301
+1631,9606.ensp00000359506
+1632,9606.ensp00000262895
+1633,9606.ensp00000395535
+1634,9606.ensp00000340874
+1635,9606.ensp00000351015
+1636,9606.ensp00000397297
+1637,9606.ensp00000340494
+1638,9606.ensp00000302150
+1639,9606.ensp00000298552
+1640,9606.ensp00000219476
+1641,9606.ensp00000353582
+1642,9606.ensp00000354778
+1643,9606.ensp00000309117
+1644,9606.ensp00000386200
+1645,9606.ensp00000363973
+1646,9606.ensp00000220751
+1647,9606.ensp00000268053
+1648,9606.ensp00000219368
+1649,9606.ensp00000339004
+1650,9606.ensp00000365437
+1651,9606.ensp00000403536
+1652,9606.ensp00000382791
+1653,9606.ensp00000331897
+1654,9606.ensp00000369581
+1655,9606.ensp00000408526
+1656,9606.ensp00000433109
+1657,9606.ensp00000352035
+1658,9606.ensp00000305653
+1659,9606.ensp00000200691
+1660,9606.ensp00000306100
+1661,9606.ensp00000216200
+1662,9606.ensp00000311816
+1663,9606.ensp00000384763
+1664,9606.ensp00000370669
+1665,9606.ensp00000350198
+1666,9606.ensp00000369325
+1667,9606.ensp00000480050
+1668,9606.ensp00000355968
+1669,9606.ensp00000263925
+1670,9606.ensp00000323511
+1671,9606.ensp00000358894
+1672,9606.ensp00000364008
+1673,9606.ensp00000221485
+1674,9606.ensp00000387694
+1675,9606.ensp00000261537
+1676,9606.ensp00000357069
+1677,9606.ensp00000389140
+1678,9606.ensp00000379895
+1679,9606.ensp00000297185
+1680,9606.ensp00000373620
+1681,9606.ensp00000322450
+1682,9606.ensp00000264932
+1683,9606.ensp00000364649
+1684,9606.ensp00000364699
+1685,9606.ensp00000353826
+1686,9606.ensp00000444433
+1687,9606.ensp00000258080
+1688,9606.ensp00000251810
+1689,9606.ensp00000307786
+1690,9606.ensp00000261647
+1691,9606.ensp00000363868
+1692,9606.ensp00000364210
+1693,9606.ensp00000477908
+1694,9606.ensp00000482259
+1695,9606.ensp00000260116
+1696,9606.ensp00000294728
+1697,9606.ensp00000306606
+1698,9606.ensp00000245451
+1699,9606.ensp00000287598
+1700,9606.ensp00000332371
+1701,9606.ensp00000263253
+1702,9606.ensp00000339824
+1703,9606.ensp00000229239
+1704,9606.ensp00000334458
+1705,9606.ensp00000346103
+1706,9606.ensp00000233146
+1707,9606.ensp00000264668
+1708,9606.ensp00000358548
+1709,9606.ensp00000344479
+1710,9606.ensp00000406046
+1711,9606.ensp00000434516
+1712,9606.ensp00000356224
+1713,9606.ensp00000353452
+1714,9606.ensp00000289473
+1715,9606.ensp00000216181
+1716,9606.ensp00000471894
+1717,9606.ensp00000291295
+1718,9606.ensp00000311032
+1719,9606.ensp00000381231
+1720,9606.ensp00000303939
+1721,9606.ensp00000346839
+1722,9606.ensp00000419045
+1723,9606.ensp00000409007
+1724,9606.ensp00000334051
+1725,9606.ensp00000360141
+1726,9606.ensp00000306138
+1727,9606.ensp00000417404
+1728,9606.ensp00000408146
+1729,9606.ensp00000369293
+1730,9606.ensp00000347684
+1731,9606.ensp00000354207
+1732,9606.ensp00000343819
+1733,9606.ensp00000479488
+1734,9606.ensp00000331791
+1735,9606.ensp00000355330
+1736,9606.ensp00000229270
+1737,9606.ensp00000312029
+1738,9606.ensp00000264606
+1739,9606.ensp00000323074
+1740,9606.ensp00000437256
+1741,9606.ensp00000338774
+1742,9606.ensp00000378307
+1743,9606.ensp00000298910
+1744,9606.ensp00000155840
+1745,9606.ensp00000359991
+1746,9606.ensp00000340944
+1747,9606.ensp00000400175
+1748,9606.ensp00000379658
+1749,9606.ensp00000368632
+1750,9606.ensp00000395654
+1751,9606.ensp00000427279
+1752,9606.ensp00000451974
+1753,9606.ensp00000457230
+1754,9606.ensp00000263640
+1755,9606.ensp00000260970
+1756,9606.ensp00000257904
+1757,9606.ensp00000369889
+1758,9606.ensp00000310520
+1759,9606.ensp00000295600
+1760,9606.ensp00000344666
+1761,9606.ensp00000302486
+1762,9606.ensp00000362690
+1763,9606.ensp00000307411
+1764,9606.ensp00000316578
+1765,9606.ensp00000445675
+1766,9606.ensp00000318176
+1767,9606.ensp00000290378
+1768,9606.ensp00000427514
+1769,9606.ensp00000261313
+1770,9606.ensp00000391676
+1771,9606.ensp00000281043
+1772,9606.ensp00000431885
+1773,9606.ensp00000359612
+1774,9606.ensp00000281708
+1775,9606.ensp00000362441
+1776,9606.ensp00000351805
+1777,9606.ensp00000264033
+1778,9606.ensp00000261978
+1779,9606.ensp00000340820
+1780,9606.ensp00000322304
+1781,9606.ensp00000439585
+1782,9606.ensp00000397402
+1783,9606.ensp00000284995
+1784,9606.ensp00000327487
+1785,9606.ensp00000217961
+1786,9606.ensp00000448665
+1787,9606.ensp00000330393
+1788,9606.ensp00000471477
+1789,9606.ensp00000338345
+1790,9606.ensp00000351807
+1791,9606.ensp00000333994
+1792,9606.ensp00000274376
+1793,9606.ensp00000369375
+1794,9606.ensp00000355896
+1795,9606.ensp00000361060
+1796,9606.ensp00000379097
+1797,9606.ensp00000357669
+1798,9606.ensp00000272645
+1799,9606.ensp00000296266
+1800,9606.ensp00000243344
+1801,9606.ensp00000347507
+1802,9606.ensp00000341838
+1803,9606.ensp00000375892
+1804,9606.ensp00000305839
+1805,9606.ensp00000346534
+1806,9606.ensp00000458162
+1807,9606.ensp00000311165
+1808,9606.ensp00000363071
+1809,9606.ensp00000254810
+1810,9606.ensp00000252242
+1811,9606.ensp00000228280
+1812,9606.ensp00000356832
+1813,9606.ensp00000356899
+1814,9606.ensp00000304822
+1815,9606.ensp00000265734
+1816,9606.ensp00000354923
+1817,9606.ensp00000366416
+1818,9606.ensp00000401399
+1819,9606.ensp00000354487
+1820,9606.ensp00000242261
+1821,9606.ensp00000386884
+1822,9606.ensp00000236918
+1823,9606.ensp00000359114
+1824,9606.ensp00000363840
+1825,9606.ensp00000315011
+1826,9606.ensp00000383382
+1827,9606.ensp00000357283
+1828,9606.ensp00000372170
+1829,9606.ensp00000332353
+1830,9606.ensp00000205143
+1831,9606.ensp00000378402
+1832,9606.ensp00000282030
+1833,9606.ensp00000327758
+1834,9606.ensp00000369129
+1835,9606.ensp00000223528
+1836,9606.ensp00000230538
+1837,9606.ensp00000442795
+1838,9606.ensp00000467141
+1839,9606.ensp00000350719
+1840,9606.ensp00000368104
+1841,9606.ensp00000345344
+1842,9606.ensp00000294304
+1843,9606.ensp00000297350
+1844,9606.ensp00000282091
+1845,9606.ensp00000418770
+1846,9606.ensp00000356671
+1847,9606.ensp00000265849
+1848,9606.ensp00000458663
+1849,9606.ensp00000330382
+1850,9606.ensp00000367832
+1851,9606.ensp00000432943
+1852,9606.ensp00000263431
+1853,9606.ensp00000262209
+1854,9606.ensp00000406191
+1855,9606.ensp00000263980
+1856,9606.ensp00000319635
+1857,9606.ensp00000327214
+1858,9606.ensp00000276414
+1859,9606.ensp00000221421
+1860,9606.ensp00000243347
+1861,9606.ensp00000339398
+1862,9606.ensp00000481570
+1863,9606.ensp00000249806
+1864,9606.ensp00000314508
+1865,9606.ensp00000341940
+1866,9606.ensp00000373952
+1867,9606.ensp00000303511
+1868,9606.ensp00000331106
+1869,9606.ensp00000478927
+1870,9606.ensp00000372295
+1871,9606.ensp00000390436
+1872,9606.ensp00000249373
+1873,9606.ensp00000420194
+1874,9606.ensp00000234420
+1875,9606.ensp00000385478
+1876,9606.ensp00000289081
+1877,9606.ensp00000259008
+1878,9606.ensp00000305692
+1879,9606.ensp00000306920
+1880,9606.ensp00000345719
+1881,9606.ensp00000254250
+1882,9606.ensp00000321271
+1883,9606.ensp00000360822
+1884,9606.ensp00000416606
+1885,9606.ensp00000363068
+1886,9606.ensp00000349790
+1887,9606.ensp00000257555
